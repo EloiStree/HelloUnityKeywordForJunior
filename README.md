@@ -30,4 +30,7 @@ Le cours s'articule autour des *issues* de Unity, qui sont organisées en module
 - `Software:` [->](https://github.com/EloiStree/HelloUnityKeywordForJunior/issues?q=software) Représente les logiciels utilisés dans le cours.
 
 Si vous souhaitez d'abord apprendre le C#, je vous invite à consulter :  
-[https://github.com/EloiStree/HelloSharpForUnity3D/blob/main/README.md](https://github.com/EloiStree/HelloSharpForUnity3D/blob/main/README.md)  
+[https://github.com/EloiStree/HelloSharpForUnity3D](https://github.com/EloiStree/HelloSharpForUnity3D/)  
+
+Trouvez mes autres cours en cherchant `Hello` dans mes répertoires:
+[Hello... ](https://github.com/EloiStree?tab=repositories&q=Hello&type=&language=&sort=)
