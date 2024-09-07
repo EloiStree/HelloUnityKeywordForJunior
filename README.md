@@ -2,7 +2,6 @@ Voici une version corrigée et reformulée :
 
 ---
 
-__[🥐>🫖 How to translate my "Hello" repository from French to English.](https://github.com/EloiStree/HelloUnityKeywordForJunior)__
 
 🤖 Cette icône indique que le contenu suivant est généré par l'IA.  
 🧙‍♂️ Cette icône indique que je trouve le sujet magique :)  
