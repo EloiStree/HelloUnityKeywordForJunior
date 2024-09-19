@@ -1,6 +1,3 @@
-Voici une version corrigée et reformulée :
-
----
 
 
 🤖 Cette icône indique que le contenu suivant est généré par l'IA.  
