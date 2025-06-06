@@ -53,6 +53,14 @@ Transform
 [Mathf](https://github.com/EloiStree/HelloUnityKeywordForJunior/issues/126)
 - [ ] Abs
 - [ ] Sign
+- [ ] Mathf.Sin, Mathf.Cos, Mathf.Tan
+- [ ] Mathf.Atan2
+- [ ] Mathf.Random
+- [ ] Mathf.Clamp
+- [ ] Mathf.Clamp01
+- [ ] Mathf.Min , Mathf.Max
+- [ ] Mathf.Floor, Mathf.Ceil,
+- [ ] Mathf.Round
 
 
 Raycaster and Debug.Drawline
