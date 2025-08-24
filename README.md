@@ -30,3 +30,11 @@ Si vous souhaitez d'abord apprendre le C#, je vous invite à consulter :
 
 Trouvez mes autres cours en cherchant `Hello` dans mes répertoires:
 [Hello... ](https://github.com/EloiStree?tab=repositories&q=Hello&type=&language=&sort=)
+
+
+
+
+Note👉: En Belgique, il existe bel et bien des opportunités pour les développeurs Unity3D.  
+Par contre, il faut aller les dénicher activement… sinon vous risquez de tomber sur ce genre de situation 👇  
+<img width="700" height="783" alt="image" src="https://github.com/user-attachments/assets/d0ca8b85-aec1-4246-9fe9-60735153676e" />
+
